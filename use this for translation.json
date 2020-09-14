@@ -3164,75 +3164,75 @@
             ]
         },
         {
-            "course": " 5 BIG BOO'S HAUNT",
+            "course": " 5 ΤΟ ΣΤΟΙΧΕΙΩΜΑ ΤΟΥ ΜΕΓΑΛΟΥ ΜΠΟΥ",
             "acts": [
-                "GO ON A GHOST HUNT",
-                "RIDE BIG BOO'S MERRY-GO-ROUND",
-                "SECRET OF THE HAUNTED BOOKS",
-                "SEEK THE 8 RED COINS",
-                "BIG BOO'S BALCONY",
-                "EYE TO EYE IN THE SECRET ROOM"
+                "ΠΑΜΕ ΓΙΑ ΚΥΝΗΓΙ ΦΑΝΤΑΣΜΑΤΩΝ",
+                "ΑΝΕΒΑ ΣΤΟ ΓΥΡΩ ΓΥΡΩ ΟΛΟΙ ΤΟΥ ΜΕΓΑΛΟΥ ΜΠΟΥ",
+                "ΜΥΣΤΙΚΑ ΤΩΝ ΣΤΟΙΧΙΩΜΕΝΩΝ ΒΙΒΛΙΩΝ",
+                "ΑΝΑΖΗΤΗΣΕ ΤΑ 8 ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ",
+                "ΤΟ ΜΠΑΛΚΟΝΙ ΤΟΥ ΜΕΓΑΛΟΥ ΜΠΟΥ",
+                "ΜΑΤΙ ΜΕ ΜΑΤΙ ΣΤΟ ΜΥΣΤΙΚΟ ΔΩΜΑΤΙΟ"
             ]
         },
         {
-            "course": " 6 HAZY MAZE CAVE",
+            "course": " 6 ΟΜΙΧΛΩΔΗΣ ΛΑΒΙΡΥΝΘΟ-ΣΠΗΛΙΑ",
             "acts": [
-                "SWIMMING BEAST IN THE CAVERN",
-                "ELEVATE FOR 8 RED COINS",
-                "METAL-HEAD MARIO CAN MOVE!",
-                "NAVIGATING THE TOXIC MAZE",
+                "ΤΟ ΘΗΡΙΟ ΠΟΥ ΚΟΛΥΜΠΑ ΣΤΗ ΣΠΗΛΙΑ",
+                "ΑΝΥΨΩΣΟΥ ΓΙΑ ΤΑ 8 ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ",
+                "Ο ΜΕΤΑΛΟ-ΚΕΦΑΛΟΣ ΜΑΡΙΟ ΚΙΝΕΙΤΑΙ!",
+                "ΠΕΡΑΣΜΑ ΑΠΟ ΤΟ ΤΟΞΙΚΟ ΛΑΒΥΡΙΝΘΟ",
                 "A-MAZE-ING EMERGENCY EXIT",
-                "WATCH FOR ROLLING ROCKS"
+                "ΠΡΟΣΕΧΕ ΤΟΥΣ ΚΥΛΙΟΜΕΝΟΥΣ ΒΡΑΧΟΥΣ"
             ]
         },
         {
-            "course": " 7 LETHAL LAVA LAND",
+            "course": " 7 ΧΩΡΑ ΤΗΣ ΘΑΝΑΤΗΦΟΡΑΣ ΛΑΒΑΣ",
             "acts": [
-                "BOIL THE BIG BULLY",
-                "BULLY THE BULLIES",
-                "8-COIN PUZZLE WITH 15 PIECES",
-                "RED-HOT LOG ROLLING",
+                "ΒΡΑΣΕ ΤΟ ΜΕΓΑΛΟ ΜΠΟΥΛΗ",
+                "ΜΠΟΥΛΙΝΓΚ ΣΤΟΥΣ ΜΠΟΥΛΗΔΕΣ",
+                "8 ΝΟΜΙΣΜΑΤΑ ΣΕ ΠΑΖΛ 15 ΚΟΜΜΑΤΙΩΝ",
+                "ΚΟΚΚΙΝΟ-ΚΑΥΤΟ ΣΤΡΙΦΟΓΥΡΙΣΜΑ ΚΟΥΤΣΟΥΡΟΥ ",
                 "HOT-FOOT-IT INTO THE VOLCANO",
-                "ELEVATOR TOUR IN THE VOLCANO"
+                "ΒΟΛΤΑ ΜΕ ΤΟΝ ΑΝΕΛΚΥΣΤΗΡΑ ΜΕΣ ΤΟ ΗΦΑΙΣΤΕΙΟ"
             ]
         },
         {
-            "course": " 8 SHIFTING SAND LAND",
+            "course": " 8 ΧΩΡΑ ΤΗΣ ΚΙΝΝΟΥΜΕΝΗΣ ΑΜΜΟΥ",
             "acts": [
-                "IN THE TALONS OF THE BIG BIRD",
-                "SHINING ATOP THE PYRAMID",
-                "INSIDE THE ANCIENT PYRAMID",
-                "STAND TALL ON THE FOUR PILLARS",
-                "FREE FLYING FOR 8 RED COINS",
-                "PYRAMID PUZZLE"
+                "ΣΤΑ ΝΥΧΙΑ ΤΟΥ ΜΕΓΑΛΟΥ ΠΟΥΛΙΟΥ",
+                "ΛΑΜΠΨΗ ΣΤΗ ΚΟΡΥΦΗ ΤΗΣ ΠΥΡΑΜΙΔΑΣ",
+                "ΜΕΣΑ ΣΤΗΝ ΑΡΧΑΙΑ ΠΥΡΑΜΙΔΑ",
+                "ΣΤΑΣΟΥ ΣΤΟ ΥΨΟΣ ΣΟΥ ΣΤΙΣ 4 ΣΤΗΛΕΣ",
+                "ΕΛΕΥΘΕΡΟ ΠΕΤΑΓΜΑ ΓΙΑ ΤΑ 8 ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ",
+                "ΠΑΖΛ ΠΥΡΑΜΙΔΑΣ"
             ]
         },
         {
-            "course": " 9 DIRE, DIRE DOCKS",
+            "course": " 9 TΤΡΟΜΕΡΕΣ,ΤΡΟΜΕΡΕΣ ΑΠΟΒΑΘΡΕΣ",
             "acts": [
-                "BOARD BOWSER'S SUB",
-                "CHESTS IN THE CURRENT",
-                "POLE-JUMPING FOR RED COINS",
-                "THROUGH THE JET STREAM",
-                "THE MANTA RAY'S REWARD",
-                "COLLECT THE CAPS..."
+                "ΣΤΟ ΚΑΤΑΣΤΡΩΜΑ ΤΟΥ ΥΠΟΒΡΥΧΙΟΥ ΤΟΥ ΜΠΑΟΥΖΕΡ",
+                "ΜΠΑΟΥΛΑ ΜΕΣΑ ΣΤΟ ΡΕΥΜΑ",
+                "ΑΠΟ ΠΑΣΣΑΛΟ ΣΕ ΠΑΣΣΑΛΟ ΓΙΑ ΤΑ ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ",
+                "ΜΕΣΑ ΣΤΟ ΡΕΥΜΑ ΤΟΥ ΑΕΡΑ",
+                "Η ΑΝΑΤΑΜΟΙΒΗ ΑΠΟ ΤΟ ΣΑΛΑΧΙ ΜΑΝΤΑ",
+                "ΦΟΡΕΣΕ ΤΑ ΚΑΠΕΛΑ..."
             ]
         },
         {
-            "course": "10 SNOWMAN'S LAND",
+            "course": "10 ΧΩΡΑ ΤΟΥ ΧΙΟΝΑΝΘΡΩΠΟΥ",
             "acts": [
-                "SNOWMAN'S BIG HEAD",
-                "CHILL WITH THE BULLY",
-                "IN THE DEEP FREEZE",
-                "WHIRL FROM THE FREEZING POND",
-                "SHELL SHREDDIN' FOR RED COINS",
-                "INTO THE IGLOO"
+                "ΤΟ ΜΕΓΑΛΟ ΚΕΦΑΛΙ ΤΟΥ ΧΙΟΝΑΝΘΡΩΠΟΥ",
+                "ΠΑΓΩΣΕ ΤΟΝ ΜΠΟΥΛΗ",
+                "ΜΕΣΑ ΣΤΟ ΒΑΘΥ ΨΥΧΟΣ",
+                "ΣΤΡΟΒΙΛΙΣΟΥ ΜΕΣΑ ΑΠΟ ΤΗ ΛΙΜΝΟΥΛΑ",
+                "ΚΑΒΟΥΚΙ ΣΕΡΦ ΓΙΑ ΤΑ ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ",
+                "ΜΕΣΑ ΣΤΟ ΙΓΚΛΟΥ"
             ]
         },
         {
             "course": "11 ΥΓΡΟ-ΣΤΕΓΝΟΣ ΚΟΣΜΟΣ",
             "acts": [
-                "SHOCKING ARROW LIFTS!",
+                "ΗΛΕΚΡΟΦΟΡΑ ΒΕΛΑΚΙΑ!",
                 "ΣΤΗ ΚΟΡΥΦΗ ΤΗΣ ΠΟΛΗΣ",
                 "ΜΥΣΤΙΚΑ ΣΤΑ ΡΗΧΑ & ΣΤΟΝ ΟΥΡΑΝΟ",
                 "ΑΝΣΑΣΕΡ ΕΞΠΡΕΣ--ΤΡΕΧΑ!",
@@ -3244,7 +3244,7 @@
             "course": "12 ΨΗΛΟ, ΨΗΛΟ ΒΟΥΝΟ",
             "acts": [
                 "ΑΝΕΒΑ ΤΟ ΒΟΥΝΟ",
-                "ΤΟ ΜΥΣΤΗΡΙΟ ΤΟΥ ΚΛΟΥΝΙΟΥ ΤΗΣ ΜΑΪΜΟΥΣ",
+                "ΤΟ ΜΥΣΤΗΡΙΟ STO KLOYBI ΤΗΣ ΜΑΪΜΟΥΣ",
                 "ΤΡΟΜΑΚΤΙΚΑ ΜΑΝΙΤΑΡΙΑ, ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ",
                 "ΜΥΣΤΗΡΙΩΔΗΣ ΒΟΥΝΟΠΛΑΓΙΑ",
                 "ΘΕΑ ΑΠΟ ΤΗ ΓΕΦΥΡΑ ΠΟΥ ΣΟΥ ΚΟΒΕΙ ΤΗΝ ΑΝΑΣΑ",
