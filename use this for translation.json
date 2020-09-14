@@ -201,21 +201,19 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Long time, no see! Wow,",
-                "have you gotten fast!",
-                "Have you been training",
-                "on the sly, or is it the",
-                "power of the Stars?",
-                "I've been feeling down",
-                "about losing the last",
-                "race. This is my home",
-                "course--how about a",
-                "rematch?",
-                "The goal is in",
-                "Windswept Valley.",
-                "Ready?",
-                "",
-                "//Go//// Don't Go"
+                "Χρόνια και ζαμάνια!¨Πω πω, ",
+"Έχεις γίνεις γρήγορος! ",
+"Προπονούσουνα ή είναι η",
+"δύναμη των αστεριών? ",
+"Έχω τις μαύρες μου",
+"από τότε που έχασα τον τελευταίο αγώνα",
+"αυτό είναι το μέρος που εξασκούμε κάθε μέρα",
+"τι λες? Είσαι για έναν αγώνα πάλι? ",
+"Ο στόχος είναι η ανεμοδαρμένη κοιλάδα",
+"Έτοιμος? ",
+"",
+"//Πάμε!//// Μην πάς"
+
             ]
         },
         {
@@ -224,17 +222,18 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "You've stepped on the",
-                "Wing Cap Switch. Wearing",
-                "the Wing Cap, you can",
-                "soar through the sky.",
-                "Now Wing Caps will pop",
-                "out of all the red blocks",
-                "you find.",
-                "",
-                "Would you like to Save?",
-                "",
-                "//Yes////No"
+                "Πάτησες το",
+"κουμπί του φτερωτού καπέλου",
+"Όταν φοράς το φτερωτό καπέλο, μπορείς να",
+"πετάξεις στους ουρανούς. ",
+"Από δω και πέρα, φτερωτά καπέλα θα πεταχτούν",
+"από όλους τους κόκκινους κύβους",
+"που βρίσκεις. ",
+"",
+"Θα θέλατε να αποθηκεύσατε? ",
+"",
+"//Ναι////Όχι"
+
             ]
         },
         {
@@ -720,9 +719,10 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Reacting to the Star",
-                "power, the door slowly",
-                "opens."
+                "Αντιδρώντας στην αστερική",
+"δύναμη, η πόρτα αργά",
+"ανοίγει. "
+
             ]
         },
         {
@@ -759,9 +759,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Warning!",
-                "Cold, Cold Crevasse",
-                "Below!"
+                "Προσοχή! ",
+"Κρύα Ρωγμή",
+"Κάτω! "
+
             ]
         },
         {
@@ -770,13 +771,14 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "I win! You lose!",
-                "Ha ha ha!",
-                "",
-                "That's what you get for",
-                "messin' with Koopa the",
-                "Quick.",
-                "Better luck next time!"
+                "Κέρδισα! Έχασες! ",
+"Χα χα χα! ",
+"",
+"Αυτά παθαίνεις όταν τα",
+"βάζεις με τον Κούπα τον",
+"Γρήγορο",
+"Καλή τύχη την επόμενη φορά! "
+
             ]
         },
         {
@@ -809,11 +811,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "If you jump and hold the",
-                "[A] Button, you can hang on",
-                "to some objects overhead.",
-                "It's the same as grabbing",
-                "a flying bird!"
+                "Αν πηδήξεις και πατήσεις συνεχόμενα το",
+"[Α] κουμπί, μπορείς να κρεμαστείς",
+"σε κάποια αντικείμενα από πάνω σου",
+"Είναι το ίδιο όπως να κρέμεσαι",
+"από ένα ιπτάμενο πουλί! "
+
             ]
         },
         {
