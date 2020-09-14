@@ -3252,7 +3252,7 @@
             ]
         },
         {
-            "course": "13 TINY-HUGE ISLAND",
+            "course": "13 ΜΙΚΡΟ-ΜΕΓΑΛΟ ΝΗΣΙ",
             "acts": [
                 "PLUCK THE PIRANHA FLOWER",
                 "THE TIP TOP OF THE HUGE ISLAND",
@@ -3263,40 +3263,40 @@
             ]
         },
         {
-            "course": "14 TICK TOCK CLOCK",
+            "course": "14 ΡΟΛΟΪ ΤΙΚ ΤΟΚ",
             "acts": [
-                "ROLL INTO THE CAGE",
-                "THE PIT AND THE PENDULUMS",
-                "GET A HAND",
-                "STOMP ON THE THWOMP",
-                "TIMED JUMPS ON MOVING BARS",
-                "STOP TIME FOR RED COINS"
+                "ΚΥΛΗΣΕ ΜΕΣ ΤΟ ΚΛΟΥΒΙ",
+                "ΤΟ ΚΕΝΟ ΚΑΙ ΤΑ ΕΚΚΡΕΜΕΣ",
+                "ΑΝΕΒΑ ΣΤΟΝ ΔΕΙΚΤΗ",
+                "ΠΑΤΑ ΠΑΝΩ ΣΤΟ ΘΟΥΟΜΠ",
+                "ΣΥΓΧΡΟΝΙΣΜΕΝΑ ΠΗΔΗΜΑΤΑ ΣΕ ΚΙΝΟΥΜΕΝΕΣ ΜΠΑΡΕΣ",
+                "ΣΤΑΜΑΤΗΣΕ ΤΟ ΧΡΟΝΟ ΓΙΑ ΤΑ ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ"
             ]
         },
         {
-            "course": "15 RAINBOW RIDE",
+            "course": "15 ΒΟΛΤΑ ΣΤΟ ΟΥΡΑΝΙΟ ΤΟΞΟ",
             "acts": [
-                "CRUISER CROSSING THE RAINBOW",
-                "THE BIG HOUSE IN THE SKY",
-                "COINS AMASSED IN A MAZE",
-                "SWINGIN' IN THE BREEZE",
-                "TRICKY TRIANGLES!",
-                "SOMEWHERE OVER THE RAINBOW"
+                "ΚΡΟΥΑΖΕΡΟΠΛΟΙΟ ΔΙΑΣΧΙΖΕΙ ΤΟ ΟΥΡΑΝΙΟ ΤΟΞΟ",
+                "ΤΟ ΜΕΓΑΛΟ ΣΠΙΤΙ ΣΤΟΝ ΟΥΡΑΝΟ",
+                "ΝΟΜΙΣΜΑΤΑ ΜΑΖΕΜΕΝΑ ΣΤΟ ΛΑΒΥΡΙΝΘΟ",
+                "ΚΟΥΝΙΑ ΣΤΟ ΑΕΡΑΚΙ",
+                "ΖΟΡΙΚΑ ΤΡΙΓΩΝΑ!",
+                "ΚΑΠΟΥ ΠΑΝΩ ΑΠΟ ΤΟ ΟΥΡΑΝΙΟ ΤΟΞΟ"
             ]
         },
-        { "course": "CASTLE", "acts": ["ONE OF THE CASTLE'S SECRET STARS!"] }
+        { "course": "ΚΑΣΤΡΟ", "acts": ["ΕΝΑ ΑΠΟ ΤΑ ΜΥΣΤΙΚΑ ΑΣΤΕΡΙΑ ΤΟΥ ΚΑΣΤΡΟΥ!"] }
     ],
     "secrets": [
-        "   BOWSER IN THE DARK WORLD",
-        "   BOWSER IN THE FIRE SEA",
-        "   BOWSER IN THE SKY",
-        "   THE PRINCESS'S SECRET SLIDE",
-        "   CAVERN OF THE METAL CAP",
-        "   TOWER OF THE WING CAP",
-        "   VANISH CAP UNDER THE MOAT",
-        "   WING MARIO OVER THE RAINBOW",
-        "   THE SECRET AQUARIUM",
-        "   CASTLE SECRET STARS"
+        "   Ο ΜΠΑΟΥΖΕΡ ΣΤΟ ΣΚΟΤΕΙΝΟ ΚΟΣΜΟ",
+        "   Ο ΜΠΑΟΥΖΕΡ ΣΤΗ ΠΥΡΙΝΗ ΘΑΛΑΣΣΑ",
+        "   Ο ΜΠΑΟΥΖΕΡ ΣΤΟΝ ΟΥΡΑΝΟ",
+        "   ΜΥΣΤΙΚΗ ΤΣΟΥΛΗΘΡΑ ΤΗΣ ΠΡΙΓΚΙΠΙΣΣΑΣ",
+        "   ΣΠΗΛΙΑ ΤΟΥ ΜΕΤΑΛΛΙΚΟΥ ΚΑΠΕΛΟΥ",
+        "   ΠΥΡΓΟΣ ΤΟΥ ΦΤΕΡΩΤΟΥ ΚΑΠΕΛΟΥ",
+        "   ΑΟΡΑΤΟ ΚΑΠΕΛΟ ΚΑΤΩ ΑΠΟ ΤΟΝ ΛΑΚΚΟ",
+        "   ΦΤΕΡΩΤΟΣ ΜΑΡΙΟ ΠΑΝΩ ΟΥΥΡΑΝΙΟ ΤΟΞΟ",
+        "   ΤΟ ΜΥΣΤΙΚΟ ΕΝΥΔΡΕΙΟ",
+        "   ΜΥΣΤΙΚΑ ΑΣΤΕΡΙΑ ΚΑΣΤΡΟΥ"
     ],
     "options": {
         "TEXT_OPT_OPTIONS": "OPTIONS",
@@ -3388,16 +3388,16 @@
         "TEXT_FILE_MARIO_B": "MARIO B",
         "TEXT_FILE_MARIO_C": "MARIO C",
         "TEXT_FILE_MARIO_D": "MARIO D",
-        "TEXT_SCORE": "SCORE",
-        "TEXT_COPY": "COPY",
-        "TEXT_ERASE": "ERASE",
-        "TEXT_STEREO": "STEREO",
-        "TEXT_MONO": "MONO",
-        "TEXT_HEADSET": "HEADSET",
-        "TEXT_SAVED_DATA_EXISTS": "SAVED DATA EXITS",
-        "TEXT_NO_SAVED_DATA_EXISTS": "NO SAVED DATA EXISTS",
-        "TEXT_RETURN": "RETURN",
-        "TEXT_CHECK_SCORE": "CHECK SCORE",
+        "TEXT_SCORE": "ΣΚΟΡ",
+        "TEXT_COPY": "ΑΝΤΙΓΡΑΦΗ",
+        "TEXT_ERASE": "ΔΙΑΓΡΑΦΗ",
+        "TEXT_STEREO": "ΣΤΕΡΕΟ",
+        "TEXT_MONO": "ΜΟΝΟ",
+        "TEXT_HEADSET": "ΑΚΟΥΣΤΙΚΑ",
+        "TEXT_SAVED_DATA_EXISTS": "ΥΠΑΡΧΟΥΝ ΣΩΣΜΕΝΑ ΑΡΧΕΙΑ",
+        "TEXT_NO_SAVED_DATA_EXISTS": "ΔΕΝ ΥΠΑΡΧΟΥΝ ΣΩΣΜΕΝΑ ΑΡΧΕΙΑ",
+        "TEXT_RETURN": "ΕΠΙΣΤΡΟΦΗ",
+        "TEXT_CHECK_SCORE": "ΔΕΣ ΤΟ ΣΚΟΡ",
         "TEXT_COPY_FILE_BUTTON": "ΑΝΤΙΓΡΑΦΗ ΦΑΚΕΛΟΥ",
         "TEXT_ERASE_FILE_BUTTON": "ΔΙΑΓΡΑΦΗ ΦΑΚΕΛΟΥ",
         "TEXT_HI_SCORE": "ΥΨΗΛΟ ΣΚΟΡ",
