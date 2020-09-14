@@ -3007,23 +3007,23 @@
                 "My troops...worthless!",
                 "They've turned over all",
                 "the Power Stars! What?!",
-                "There are 120 in all???",
+                "Είναι 120 όλα κι όλα;;;",
                 "",
-                "Amazing! There were some",
-                "in the castle that I",
-                "missed??!!",
+                "Φοβερό! Ήταν κάποια",
+                "μέσα στο κάστρο τα οποία",
+                "μου ξέφυγαν;;!!",
                 "",
                 "",
-                "Now I see peace",
-                "returning to the world...",
-                "Oooo! I really hate that!",
-                "I can't watch--",
-                "I'm outta here!",
-                "Just you wait until next",
-                "time. Until then, keep",
-                "that Control Stick",
-                "smokin'!",
-                "Buwaa ha ha!"
+                "Τώρα βλέπω την ειρήνη",
+                "να επιστρέφει στο κόσμο...",
+                "Ωωωωω! Πραγματικά το απεχθάνομαι!",
+                "Δεν μπορώ να το βλέπω--",
+                "Τη κάνω από 'δω!",
+                "Απλά περίμενε μέχρι την επόμενη",
+                "φορά. Μέχρι τότε, λιώσε,
+                "το μοχλό του χειριστηρίου,
+                "κάψτο!",
+                "Μπουά χα χα!"
             ]
         },
         {
@@ -3032,18 +3032,18 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mario! What's up, pal?",
-                "I haven't been on the",
-                "slide lately, so I'm out",
-                "of shape.",
-                "Still, I'm always up for a",
-                "good race, especially",
-                "against an old sleddin'",
-                "buddy.",
-                "Whaddya say?",
-                "Ready...set...",
+                "Μαριο! Τι κάνεις, φίλε;",
+                "Δεν έχω ασχοληθεί με τη",
+                "τσουλήθρα εδώ και καιρό",
+                "και είμαι εκτός φόρμας.",
+                "Όπως και να'χει, πάντα είμαι μέσα",
+                "για έναν αγώνα , ειδικά",
+                "με ένα τσουλήθρο",
+                "φιλαράκι.",
+                "Τι λες?",
+                "Έτοιμοι...σετ...",
                 "",
-                "//Go//// Don't Go"
+                "//Πάμε//// Όχι ακόμα"
             ]
         },
         {
@@ -3052,11 +3052,11 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "I take no responsibility",
-                "whatsoever for those who",
-                "get dizzy and pass out",
-                "from running around",
-                "this post."
+                "Δεν παίρνω απολύτως καμία",
+                "ευθύνη γι'αυτούς που",
+                "ζαλίζονται και λιποθυμούν",
+                "με το να τρέχουν γύρω",
+                "από αυτή τη πινακίδα."
             ]
         },
         {
@@ -3065,10 +3065,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "I'll be back soon.",
-                "I'm out training now,",
-                "so come back later.",
-                "//--Koopa the Quick"
+                "Επιστρέφω σύντομα.",
+                "Τωρα ειμαι έξω για προπόνηση,",
+                "οπότε ελάτε πάλι αργότερα.",
+                "//--Κούπα ο Ταχύς"
             ]
         },
         {
@@ -3077,16 +3077,16 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Princess Toadstool's",
-                "castle is just ahead.",
+                "Το κάστρο της Πριγκίπισσας",
+                "Τόουντστουλ είναι ευθεία μπροστά.",
                 "",
                 "",
-                "Press [A] to jump, [Z] to",
-                "crouch, and [B] to punch,",
-                "read a sign, or grab",
-                "something.",
-                "Press [B] again to throw",
-                "something you're holding."
+                "Πίεσε [A] για να πηδήξεις, [Z] για ",
+                "να σκύψεις, και [B] για γροθιά,",
+                "να διαβάσεις μια πινακίδα, ή να πιάσεις",
+                "κάτι.",
+                "Πίεσε [B] πάλι για να πετάξεις",
+                "κάτι που κρατάς."
             ]
         },
         {
