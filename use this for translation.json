@@ -2870,11 +2870,11 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "The world inside the",
-                "clock is so strange!",
-                "When you jump inside,",
-                "watch the position of",
-                "the big hand!"
+                "Ο κόσμος μέσα στο ρολόϊ",
+                "είναι πολύ παράξενος!",
+                "Όταν πηδήξεις μέσα,",
+                "πρόσεξε τη θέση του",
+                "μεγάλου δείκτη!"
             ]
         },
         {
@@ -2883,18 +2883,18 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Watch out! Don't let",
-                "yourself be swallowed by",
-                "quicksand.",
+                "Πρόσεχε! Μην αφήσεις",
+                "τον εαυτό σου να σε καταπιεί",
+                "η κινούμενη άμμος.",
                 "",
                 "",
-                "If you sink into the sand,",
-                "you won't be able to",
-                "jump, and if your head",
-                "goes under, you'll be",
-                "smothered.",
-                "The dark areas are",
-                "bottomless pits."
+                "Εαν βυθιστείς μέσα στην άμμο,",
+                "δεν θα μπορείς να",
+                "πηδήξεις, και εαν το κεφάλι σου",
+                "πάει από κάτω, θα πάθεις",
+                "ασφυξία.",
+                "Οι σκοτεινές περιοχές είναι",
+                "απύθμενοι λάκκοι."
             ]
         },
         {
@@ -2903,17 +2903,17 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "1. If you jump repeatedly",
-                "and time it right, you'll",
-                "jump higher and higher.",
-                "If you run really fast and",
-                "time three jumps right,",
-                "you can do a Triple Jump.",
-                "2. Jump into a solid wall,",
-                "then jump again when you",
-                "hit the wall. You can",
-                "bounce to a higher level",
-                "using this Wall Kick."
+                "1. Εαν χοροπηδάς επανελλειμένως",
+                "και το συγχρονίσεις σωστά, θα",
+                "πηδάς όλο και πιο ψηλά.",
+                "Εαν τρέχεις πραγματικά γρήγορα και",
+                "συγχρονίσεις τρία πηδήματα σωστά,",
+                "μπορείς να κάνεις ένα Τριπλό Άλμα.",
+                "2. Πήδα πάνω σε ένα συμπαγή τοίχο,",
+                "και πήδα πάλι όταν ακουμπήσεις",
+                "το τοίχο. Μπορείς να",
+                "αναπηδήσεις σε υψηλότερο επίπεδο",
+                "χρησιμοποιώντας αυτό τη Τοίχο-Κλώτσια."
             ]
         },
         {
@@ -2922,12 +2922,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "3. If you stop, press [Z]",
-                "to crouch, then jump, you",
-                "can perform a Backward",
-                "Somersault. To do a Long",
-                "Jump, run fast, press [Z],",
-                "then jump."
+                "3. Εαν σταματήσεις, πίεσε [Z]",
+                "για να σκύψεις, μετά πήδα,",
+                "μπορείς να πραγματοποιήσεις μια Ανάποδη",
+                "Τούμπα. Για να κάνεις ένα Μακρύ",
+                "Άλμα, τρέξε γρήγορα, πίεσε [Z],",
+                "και πήδα."
             ]
         },
         {
@@ -2936,10 +2936,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Press [B] while running",
-                "fast to do a Body Slide",
-                "attack. To stand while",
-                "sliding, press [A] or [B]."
+                "Πίεσε [B] καθώς τρέχεις",
+                "γρήγορα για να κάνεις επίθεση",
+                "Σωματο - Ολίσθησης. Για να σηκωθείς καθώς",
+                "ολισθαίνεις, πίεσε [A] ή [B]."
             ]
         },
         {
@@ -2948,32 +2948,32 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mario!!!",
-                "It that really you???",
-                "It has been so long since",
-                "our last adventure!",
-                "They told me that I might",
-                "see you if I waited here,",
-                "but I'd just about given",
-                "up hope!",
-                "Is it true? Have you",
-                "really beaten Bowser? And",
-                "restored the Stars to the",
-                "castle?",
-                "And saved the Princess?",
-                "I knew you could do it!",
-                "Now I have a very special",
-                "message for you.",
-                "『Thanks for playing Super",
-                "Mario 64! This is the",
-                "end of the game, but not",
-                "the end of the fun. We want you to keep on",
-                "playing, so we have a",
-                "little something for you.",
-                "We hope that you like it!",
-                "Enjoy!!! 』",
+                "Μάριο!!!",
+                "Είσαι στ' αλήθεια εσύ;;;",
+                "Πάει τόσος καιρός από",
+                "τη τελευταία μας περιπέτεια!",
+                "Μου είπαν ότι μπορεί να σε",
+                "πετύχαινα αν περίμενα εδώ,",
+                "αλλά κόντεψα να χάσω κάθε",
+                "ελπίδα οτι θα σε έβλεπα!",
+                "Είναι αλήθεια; Όντως",
+                "νίκησες τον Μπάουζερ; Και",
+                "επανέφερες τα αστέρια στο",
+                "κάστρο;",
+                "Και έσωσες και τη Πριγκίπισσα;",
+                "Το ήξερα ότι μπορύσες να το κάνεις!",
+                "Λοιπόν έχω ένα πολύ ιδιαίτερο",
+                "μήνυμα για σένα.",
+                "『Ευχαριστούμε που έπαιξες το Σούπερ",
+                "Μάριο 64! Αυτό είναι το",
+                "τέλος του παιχνιδιού, αλλά όχι",
+                "το τέλος της διασκέδασης. Θέλουμε να συνεχίσεις να",
+                "παίζεις, γι' αυτό και έχουμε",
+                "κάτι για σένα",
+                "Ελπίζουμε να σου αρέσει!",
+                "Απόλαυσέ το!!! 』",
                 "",
-                "The Super Mario 64 Team"
+                "Η Σούπερ Μάριο 64 Ομάδα"
             ]
         },
         {
@@ -3163,7 +3163,7 @@
                 "ΑΓΩΝΑΣ ΤΟΥ ΜΕΓΑΛΟΥ ΠΙΓΚΟΥΙΝΟΥ",
                 "ΠΑΓΩΜΕΝΗ ΤΣΟΥΛΗΘΡΑ ΓΙΑ ΤΑ 8 ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ",
                 "ΧΙΟΝΑΝΘΡΩΠΟΣ ΕΧΑΣΕ ΤΟ ΚΕΦΑΛΙ ΤΟΥ",
-                "ΟΙ ΚΛΩΤΣΙΕΣ ΣΤΟ ΤΟΙΧΟ ΠΙΑΝΟΥΝ"
+                "ΟΙ ΤΟΙΧΟ ΚΛΩΤΣΙΕΣ ΠΙΑΝΟΥΝ"
             ]
         },
         {
@@ -3247,7 +3247,7 @@
             "course": "12 ΨΗΛΟ, ΨΗΛΟ ΒΟΥΝΟ",
             "acts": [
                 "ΑΝΕΒΑ ΤΟ ΒΟΥΝΟ",
-                "ΤΟ ΜΥΣΤΗΡΙΟ STO KLOYBI ΤΗΣ ΜΑΪΜΟΥΣ",
+                "ΤΟ ΜΥΣΤΗΡΙΟ ΣΤΟ ΚΛΟΥΒΙ ΤΗΣ ΜΑΪΜΟΥΣ",
                 "ΤΡΟΜΑΚΤΙΚΑ ΜΑΝΙΤΑΡΙΑ, ΚΟΚΚΙΝΑ ΝΟΜΙΣΜΑΤΑ",
                 "ΜΥΣΤΗΡΙΩΔΗΣ ΒΟΥΝΟΠΛΑΓΙΑ",
                 "ΘΕΑ ΑΠΟ ΤΗ ΓΕΦΥΡΑ ΠΟΥ ΣΟΥ ΚΟΒΕΙ ΤΗΝ ΑΝΑΣΑ",
