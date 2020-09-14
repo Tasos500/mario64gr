@@ -3417,11 +3417,11 @@
         "TEXT_FILE_MARIO_EXCLAMATION": "Mario!",
         "TEXT_POWER_STARS_RESTORED": "The power of the Stars is restored to the castle...",
         "TEXT_THANKS_TO_YOU": "...and it's all thanks to you!",
-        "TEXT_THANK_YOU_MARIO": "Thank you, Mario!",
-        "TEXT_SOMETHING_SPECIAL": "We have to do something special for you...",
-        "TEXT_LISTEN_EVERYBODY": "Listen, everybody,",
-        "TEXT_LETS_HAVE_CAKE": "let's bake a delicious cake...",
-        "TEXT_FOR_MARIO": "...for Mario...",
-        "TEXT_FILE_MARIO_QUESTION": "Mario!"
+        "TEXT_THANK_YOU_MARIO": "Σε ευχαριστώ, Μάριο!",
+        "TEXT_SOMETHING_SPECIAL": "Πρέπει να κάνουμε κάτι ξεχωριστό για σένα...",
+        "TEXT_LISTEN_EVERYBODY": "Ακούστε, όλοι,",
+        "TEXT_LETS_HAVE_CAKE": "πάμε να φτιάξουμε μια υπέροχη τούρτα...",
+        "TEXT_FOR_MARIO": "...για το Μάριο...",
+        "TEXT_FILE_MARIO_QUESTION": "Μάριο!"
     }
 }
