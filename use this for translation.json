@@ -2712,18 +2712,18 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Snowman Mountain ahead.",
-                "Keep out! And don't try",
-                "the Triple Jump over the",
-                "ice block shooter.",
+                "Βουνό Χιονάνθρωπος.",
+                "Μακριά! Και μη προσπαθήσετε",
+                "το τριπλό άλμα πάνω από τον",
+                "εκτοξευτή πάγου.",
                 "",
                 "",
-                "If you fall into the",
-                "freezing pond, your power",
-                "decreases quickly, and",
-                "you won't recover",
-                "automatically.",
-                "//--The Snowman"
+                "Εαν πέσεις μέσα σε μια",
+                "παγωμένη λίμνη, η δύναμή σου",
+                "μειώνεται γρήγορα, και",
+                "δεν αναπληρώνεται",
+                "αυτόματα.",
+                "//--Ο Χιονάνθρωπος"
             ]
         },
         {
@@ -2732,17 +2732,17 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Welcome to",
-                "Princess Toadstool's",
-                "secret slide!",
-                "There's a Star hidden",
-                "here that Bowser couldn't",
-                "find.",
-                "When you slide, press",
-                "forward to speed up,",
-                "pull back to slow down.",
-                "If you slide really",
-                "fast, you'll win the Star!"
+                "Καλωσήρθες",
+                "στη μυστική τσουλήθρα",
+                "της Πριγκίπισσας Τόουντστουλ!",
+                "Υπάρχει ένα κρυμμένο αστέρι",
+                "εδώ όπου ο Μπάουζερ δε μπόρεσε",
+                "να βρεί.",
+                "Όταν κάνεις τσουλήθρα, πίεσε",
+                "μπροστά για να επιταχύνεις,",
+                "πίεσε πίσω για να πας πιο αργά.",
+                "Εαν κάνεις τσουλήθρα πραγματικά",
+                "γρήγορα, θα κερδίσεις το Αστέρι!"
             ]
         },
         {
@@ -2751,21 +2751,21 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Waaaa! You've flooded my",
-                "house! Wh-why?? Look at",
-                "this mess! What am I",
-                "going to do now?",
+                "Αααααα! Μου πλημμύρισες",
+                "το σπίτι! Για-γιατί;; Κοίτα όλο",
+                "αυτό το χάλι! Τι θα ",
+                "κάνω εγώ τώρα",
                 "",
-                "The ceiling's ruined, the",
-                "floor is soaked...what to",
-                "do, what to do? Huff...",
-                "huff...it makes me so...",
-                "MAD!!!",
-                "Everything's been going",
-                "wrong ever since I got",
-                "this Star...It's so shiny,",
-                "but it makes me feel...",
-                "strange..."
+                "Το ταβάνι καταστράφηκε, το",
+                "πάτωμα βράχηκε...τι να κάνω,",
+                "τι να κάνω;; Ουφφ...",
+                "ουφφ...με κάνει...",
+                "ΕΞΑΛΗ!!!",
+                "Τα πάντα πάνε στραβά",
+                "από τότε που πήρα αυτό",
+                "το Αστέρι...Είναι τόσο λαμπερό,",
+                "αλλά με κάνει και νιώθω...",
+                "περίεργα..."
             ]
         },
         {
@@ -2774,7 +2774,7 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Δεν μπορώ να το ανεχθώ",
+                "Δεν μπορώ να το δεχτώ",
                 "άλλο πια! Πρώτα με",
                 "κάνεις μούσκεμα, μετά",
                 "με τσαλαπατάς!",
