@@ -2522,17 +2522,17 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Thanks, Mario! The castle",
-                "is recovering its energy",
-                "as you retrieve Power",
-                "Stars, and you've chased",
-                "Bowser right out of here,",
-                "on to some area ahead.",
-                "Oh, by the by, are you",
-                "collecting coins? Special",
-                "Stars appear when you",
-                "collect 100 coins in each",
-                "of the 15 courses!"
+                "Ευχαριστώ, Μάριο! Το κάστρο",
+                "ανακτά την ενέργειά του",
+                "καθώς ξαναβρίσκεις Αστέρια",
+                "Δύναμης, και έχεις διώξει",
+                "τον Μπάουζερ έξω από 'δω,",
+                "προς μια περιοχή παραπέρα.",
+                "Ωω, παρεπιπτόντως,",
+                "Μαζεύεις νομίσματα? Ξεχωριστά",
+                "Αστέρια εμφανίζονται όταν",
+                "μαζέψεις 100 νομίσματα σε κάθε",
+                "μια απο τις 15 πίστες!"
             ]
         },
         {
@@ -3446,7 +3446,7 @@
         "TEXT_SAVE_EXIT_GAME": "ΑΠΟΘΗΚΕΥΣΗ & ΕΞΟΔΟΣ ΣΤΟ ΠΑΙΧΝΙΔΙ",
         "TEXT_CONTINUE_WITHOUT_SAVING": "ΣΥΝΕΧΕΙΑ, ΧΩΡΙΣ ΑΠΟΘΗΚΕΥΣΗ",
         "TEXT_FILE_MARIO_EXCLAMATION": "Μάριο!",
-        "TEXT_POWER_STARS_RESTORED": "Η δύναμη των αστεριών επανήλθε στο κάστρο...",
+        "TEXT_POWER_STARS_RESTORED": "Η Δύναμη των Αστεριών επανήλθε στο κάστρο...",
         "TEXT_THANKS_TO_YOU": "...και όλα αυτά χάρη σε σένα!",
         "TEXT_THANK_YOU_MARIO": "Σε ευχαριστώ, Μάριο!",
         "TEXT_SOMETHING_SPECIAL": "Πρέπει να κάνουμε κάτι ξεχωριστό για σένα...",
