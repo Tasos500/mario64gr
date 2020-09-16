@@ -1893,15 +1893,15 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Pssst! The Boos are super",
-                "shy. If you look them",
-                "in the eyes, they fade",
-                "away, but if you turn",
-                "your back, they reappear.",
-                "It's no use trying to hit",
-                "them when they're fading",
-                "away. Instead, sneak up",
-                "behind them and punch."
+                "Πσσστ! Τα Μπου είναι πολύ",
+                "ντροπαλά. Εαν τα κοιτάζεις",
+                "στα μάτια, εξαφανίζονται,",
+                "αλλά αν γυρίσεις τη πλάτη",
+                "σου, ξαναεμφανίζονται.",
+                "Δεν έχει νόημα να τα χτυπάς",
+                "όταν εξαφανίζονται",
+                "Αντί αυτού, πήγαινε κρυφά",
+                "πίσω τους και ρίξε μπουνιά."
             ]
         },
         {
@@ -1910,10 +1910,10 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Upon four towers",
-                "one must alight...",
-                "Then at the peak",
-                "shall shine the light..."
+                "Στους τέσσερις πύργους πάνω",
+                "ένας πρέπει να σταθεί...",
+                "Τότε εις στη κορυφή",
+                "το φως θα ακτινοβολεί..."
             ]
         },
         {
@@ -1922,11 +1922,11 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "The shadowy star in front",
-                "of you is a 『Star",
-                "Marker.』 When you collect",
-                "all 8 Red Coins, the Star",
-                "will appear here."
+                "Το σκιώδες Αστέρι μπροστά",
+                "σου είναι ένας『Αστερο",
+                "Δείκτης.』 Όταν μαζέψεις",
+                "όλα τα 8 κόκκινα νομίσματα,",
+                "το Αστέρι θα εμφανιστεί εδώ."
             ]
         },
         {
@@ -1935,18 +1935,18 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Ready for blastoff! Come",
-                "on, hop into the cannon!",
+                "Έτοιμοι για εκτόξευση! Έλα",
+                "πήδα μέσα στο κανόνι!",
                 "",
-                "You can reach the Star on",
-                "the floating island by",
-                "using the four cannons.",
-                "Use the Control Stick to",
-                "aim, then press [A] to fire.",
+                "Μπορείς να φτάσεις το Αστέρι",
+                "στο αιωρούμενο νησί",
+                "χρησιμοποιώντας τα τέσσερα κανόνια.",
+                "Χρησιμοποίησε το μοχλό ελέγχου",
+                "για να σημαδέψεις ,μετα πίεσε [A] για βολή.",
                 "",
-                "If you're handy, you can",
-                "grab on to trees or poles",
-                "to land."
+                "Εάν σε βολεύει, μπορείς α πιαστείς",
+                "από δέντρα ή στύλους",
+                "και να προσγειωθεις."
             ]
         },
         {
@@ -1955,8 +1955,8 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Ready for blastoff! Come",
-                "on, hop into the cannon!"
+                "Έτοιμοι για εκτόξευση! Έλα",
+                "πήδα μέσα στο κανόνι!"
             ]
         },
         {
@@ -1965,12 +1965,12 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Ghosts...",
-                "...don't...",
-                "...DIE!",
-                "Heh, heh, heh!",
-                "Can you get out of here...",
-                "...alive?"
+                "Τα φαντάσματα...",
+                "...δεν...",
+                "...ΠΕΘΑΙΝΟΥΝ!",
+                "Χε, χε, χε!",
+                "Μπορείς να βγείς από 'δω...",
+                "...ζωντανός?"
             ]
         },
         {
@@ -1979,11 +1979,11 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Boooooo-m! Here comes",
-                "the master of mischief,",
-                "the tower of terror,",
-                "the Big Boo!",
-                "Ka ha ha ha..."
+                "Μπουυυυυ-μ! Έρχεται",
+                "ο άρχοντας του κακού,",
+                "ο πύργος του τρόμου,",
+                "ο Μεγάλος Μπού!",
+                "Κα χα χα χα..."
             ]
         },
         {
