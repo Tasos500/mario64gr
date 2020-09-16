@@ -690,20 +690,20 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "OBSERVATION PLATFORM",
-                "Press [C]^ to take a look",
-                "around. Don't miss",
-                "anything!",
-                "",
-                "Press [R] to switch to",
-                "Mario's camera. It",
-                "always follows Mario.",
-                "Press [R] again to switch",
-                "to Lakitu's camera.",
-                "Pause the game and",
-                "switch the mode to 『fix』",
-                "the camera in place while",
-                "holding [R]. Give it a try!"
+                "ΠΛΑΤΦΟΡΜΑ ΠΑΡΑΤΗΡΗΣΗΣ",
+                 "Πίεσε [C]^ για να κοιτάξεις γύρω",
+                 "σου. Μην ξεχάσεις τίποτα! ",
+                 "",
+                 "Πίεσε [R] για να αλλάξεις",
+                 "στην Μάριο κάμερα. Πάντα",
+                 "ακολουθεί τον Μάριο. Πίεσε",
+                 "[R] πάλι για να αλλάξεις στην",
+                 "Λάκιτου κάμερα. Παύσε το",
+                 "παιχνίδι και άλλαξε το είδος κάμερας",
+                 "Στο 『σταματημένη』για να κρατήσεις",
+                 "την κάμερα σε ένα σημείο όσο πιέζεις το [R] ",
+                 "Δοκίμασε το! "
+
             ]
         },
         {
