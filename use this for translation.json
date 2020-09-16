@@ -2187,20 +2187,20 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Ooowaah! Can it be that",
-                "I've lost??? The power of",
-                "the Stars has failed me...",
-                "this time.",
-                "Consider this a draw.",
-                "Next time, I'll be in",
-                "perfect condition.",
+                "Ωωωωω! Δε γίνεται αυτό",
+                "έχασα??? Η δύναμη",
+                "των Αστεριών με απογοήτευσε...",
+                "αυτή τη φορά.",
+                "Πάρτο σαν ισοπαλία.",
+                "Την επόμενη, θα είμαι",
+                "σε τέλεια κατάσταση.",
                 "",
-                "Now, if you want to see",
-                "your precious Princess,",
-                "come to the top of the",
-                "tower.",
-                "I'll be waiting!",
-                "Gwa ha ha ha!"
+                "Τώρα, εαν θες να δεις",
+                "τη μονάκριβή σου Πριγκίπισσα ,",
+                "έλα στη κορυφή του",
+                "πύργου.",
+                "Θα περιμένω!",
+                "Γκα χα χα χα!"
             ]
         },
         {
@@ -2209,19 +2209,19 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Nooo! It can't be!",
-                "You've really beaten me,",
-                "Mario?!! I gave those",
-                "troops power, but now",
-                "it's fading away!",
-                "Arrgghh! I can see peace",
-                "returning to the world! I",
-                "can't stand it! Hmmm...",
-                "It's not over yet...",
+                "Όχιιι! Δεν μπορεί!",
+                "Πραγματικά με νίκησες,",
+                "Μάριο?!! Έδωσα στο",
+                "στρατό μου δύναμη, αλλά τώρα",
+                "σβήνει σιγά σιγά!",
+                "Ααααα! Βλέπω τη ειρήνη",
+                "να επιστρέφει στο κόσμο! Δεν",
+                "το αντέχω! Χμμμ...",
+                "Δεν τελείωσε ακόμα...",
                 "",
-                "C'mon troops! Let's watch",
-                "the ending together!",
-                "Bwa ha ha!"
+                "Ελάτε στρατιώτες! Ας δούμε",
+                "το τέλος μαζί!",
+                "Μουά χα χα!"
             ]
         },
         {
@@ -2230,10 +2230,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "The Black Hole",
-                "Right: Work Elevator",
-                "/// Cloudy Maze",
-                "Left: Underground Lake"
+                "Μαύρη Τρύπα",
+                "Δεξιά: Ανελκυστήρας Εργασίας",
+                "/// Νεφελώδης Λαβύρινθος",
+                "Αριστερά: Υπόγεια Λίμνη"
             ]
         },
         {
@@ -2242,9 +2242,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Metal Cavern",
-                "Right: To Waterfall",
-                "Left: Metal Cap Switch"
+                "Μεταλλική Σπηλιά",
+                "Δεξιά: Προς Καταρράκτη",
+                "Αριστερά: Διακόπτης Μεταλλικού Καπέλου"
             ]
         },
         {
@@ -2253,13 +2253,13 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Work Elevator",
-                "Danger!!",
-                "Read instructions",
-                "thoroughly!",
-                "Elevator continues in the",
-                "direction of the arrow",
-                "activated."
+                "Ανελκυστήρας Εργασίας",
+                "Κίνδυνος!!",
+                "Διαβάστε τις οδηγίες",
+                "πλήρως!",
+                "Ο ανελκυστήρας συνεχίζει",
+                "στη κατεύθυνση του βέλους",
+                "που ενεργοποιήθηκε."
             ]
         },
         {
@@ -2268,9 +2268,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Hazy Maze-Exit",
-                "Danger! Closed.",
-                "Turn back now."
+                "Έξοδος Ομιχλώδους Λαβύρινθου",
+                "Κίνδυνος! Κλειστεί.",
+                "Γύρνα πίσω τώρα."
             ]
         },
         {
@@ -2279,9 +2279,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Up: Black Hole",
-                "Right: Work Elevator",
-                "/// Hazy Maze"
+                "Πάνω: Μαύρη Τρύπα",
+                "Δεξιά: Ανελκυστήρας Εργασίας",
+                "/// Ομιχλώδης Λαβύρινθος"
             ]
         },
         {
@@ -2290,14 +2290,14 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Underground Lake",
-                "Right: Metal Cave",
-                "Left: Abandoned Mine",
-                "///(Closed)",
-                "A gentle sea dragon lives",
-                "here. Pound on his back to",
-                "make him lower his head.",
-                "Don't become his lunch."
+                "Υπόγεια Λίμνη",
+                "Δεξιά: Μεταλλική Σπηλιά",
+                "Αριστερά: Εγκαταλλειμένο Ορυχείο",
+                "///(Κλειστό)",
+                "Ενας ευγενικός θαλάσσιος δράκος",
+                "ζεί εδώ. Χτύπα πάνω στη πλάτη του",
+                "κάντον να χαμηλώσει το κεφάλι του.",
+                "Μη γίνεις το γεύμα του."
             ]
         },
         {
