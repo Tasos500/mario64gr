@@ -1377,14 +1377,14 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Danger Ahead!",
-                "Beware of the strange",
-                "cloud! Don't inhale!",
-                "If you feel faint, run for",
-                "higher ground and fresh",
-                "air!",
-                "Circle: Shelter",
-                "Arrow: Entrance-Exit"
+                "Κίνδυνος μπροστα",
+                "Πρόσεχε το παράξενο",
+                "σύννεφο! Μην εισπνέεις!",
+                "Εαν νιώσεις λιποθυμία, τρέξε",
+                "σε ψηλότερο έδαφος και",
+                "φρέσκο αέρα!",
+                "Κύκλος: Καταφύγιο",
+                "Βέλος: Είσοδος-Έξοδος"
             ]
         },
         {
@@ -1393,11 +1393,11 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "High winds ahead!",
-                "Pull your Cap down tight.",
-                "If it blows off, you'll",
-                "have to find it on this",
-                "mountain."
+                "Ισχυροί άνεμοι μπροστά!",
+                "Κράτα το Καπέλο σου σφιχτά.",
+                "Αν σου φύγει απ 'τον αέρα,",
+                "θα πρέπει να το βρείς σε",
+                "αυτό το βουνό."
             ]
         },
         {
@@ -1418,7 +1418,7 @@
                 "λες?",
                 "",
                 "",
-                "Δεν θα πω ποτέ!",
+                "Ποτέ δεν θα πω!",
                 "",
                 "//--Ο Καπετάν"
             ]
