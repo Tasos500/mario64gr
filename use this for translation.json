@@ -2306,10 +2306,10 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "You must fight with",
-                "honor! It is against the",
-                "royal rules to throw the",
-                "king out of the ring!"
+                "Πρέπει να παλέψεις με",
+                "τιμή! Είναι ενάντια στους ",
+                "βασιλικούς κανόνες να πετάς",
+                "το Βασιλιά εκτός του ρίνγκ!"
             ]
         },
         {
@@ -2318,16 +2318,16 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Welcome to the Vanish",
-                "Cap Switch Course! All of",
-                "the blue blocks you find",
-                "will become solid once you",
-                "step on the Cap Switch.",
-                "You'll disappear when you",
-                "put on the Vanish Cap, so",
-                "you'll be able to elude",
-                "enemies and walk through",
-                "many things. Try it out!"
+                "Καλωσήρθες στη Πίστα του",
+                "Καπέλου Εξαφάνισης! Όλα τα",
+                "μπλέ κουτιά που βρίσκεις",
+                "θα γινουν συμπαγή μόλις",
+                "πατήσεις πάνω στο Διακόπτη Καπέλου.",
+                "Θα εξαφανιστείς όταν",
+                "φορέσεις το Καπέλο Εξαφάνισης, οπότε",
+                "θα είσαι ικανός να διαφεύγεις",
+                "τους εχθρούς και να περνάς μέσα από",
+                "πολλά πράγματα. Δοκίμασέ το!"
             ]
         },
         {
@@ -2336,15 +2336,15 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Welcome to the Metal Cap",
-                "Switch Course! Once you",
-                "step on the Cap Switch,",
-                "the green blocks will",
-                "become solid.",
-                "When you turn your body",
-                "into metal with the Metal",
-                "Cap, you can walk",
-                "underwater! Try it!"
+                "Καλωσήρθες στη Πίστα του",
+                "Μεταλλικού Καπέλου! Μόλις",
+                "πατήσεις πάνω στο Διακόπτη Καπέλου,",
+                "τα πράσινα κουτιά θα",
+                "γίνουν συμπαγή.",
+                "Όταν μετατρέψεις το σώμα σου",
+                "σε μέταλλο με το Μεταλλικό",
+                "Καπέλο, μπορείς να περπατήσεις",
+                "υποβρυχίως! Δοκίμασέ το!"
             ]
         },
         {
