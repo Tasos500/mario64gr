@@ -2023,10 +2023,10 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Perfect! What a great",
-                "new body! Here--this is a",
-                "present for you. It's sure",
-                "to warm you up."
+                "Τέλεια! Τι ωραίο",
+                "καινούριο σώμα! Ορίστε--αυτό είναι",
+                "δώρο για σένα. Είναι σίγουρο",
+                "ότι θα σε ζεστάνει."
             ]
         },
         {
@@ -2035,21 +2035,21 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Collect as many coins as",
-                "possible! They'll refill",
-                "your Power Meter.",
+                "Μάζεψε όσο το δυνατόν περισσότερα",
+                "νομίσματα! Ξαναγεμίζουν",
+                "το Δυναμό Μετρό σου.",
                 "",
-                "You can check to see how",
-                "many coins you've",
-                "collected in each of the",
-                "15 enemy worlds.",
-                "You can also recover",
-                "power by touching the",
-                "Spinning Heart.",
+                "Μπορείς να ελεγξεις και να δείς",
+                "πόσα νομίσματα έχεις",
+                "μαζέψει σε κάθε έναν από τους",
+                "15 εχθρικούς κόσμους.",
+                "Μπορείς επίσης να ανακτήσεις",
+                "δύναμη ακουμπώντας τη",
+                "Περιστρεφόμενη Καρδιά.",
                 "",
-                "The faster you run",
-                "through the heart, the",
-                "more power you'll recover."
+                "Όσο πιο γρήγορα τρέχεις",
+                "μέσα απ'τη καρδιά, τόσο",
+                "περισσότερο δύναμη θα αναπληρώσεις."
             ]
         },
         {
