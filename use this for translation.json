@@ -1759,19 +1759,19 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mario! You again! Well",
-                "that's just fine--I've",
-                "been looking for something",
-                "to fry with my fire",
-                "breath!",
-                "Your Star Power is",
-                "useless against me!",
-                "Your friends are all",
-                "trapped within the",
-                "walls...",
-                "And you'll never see the",
-                "Princess again!",
-                "Bwa ha ha ha!"
+                "Μάριο! Εσύ πάλι! Λοιπόν",
+                "μια χαρά--και έψαχνα",
+                "κάτι να ψήσω",
+                "με τη πύρινη ",
+                "αναπνοή μου!",
+                "Η Δύναμη των αστεριών",
+                "είναι άχρηση εναντίον μου!",
+                "Οι φίλοι σου είναι όλοι",
+                "παγιδευμένοι ανάμεσα στους",
+                "τοίχους...",
+                "Και δεν θα δείς ποτέ ξανά",
+                "τη Πριγκίπισσα!",
+                "Μουα χα χα χα!"
             ]
         },
         {
@@ -1780,10 +1780,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Get a good run up the",
-                "slope! Do you remember",
-                "the Long Jump? Run, press",
-                "[Z], then jump!"
+                "Πάμε ένα τρέξιμο μέχρι πάνω",
+                "στη πλαγιά! Θυμάσαι",
+                "το Μακρύ Άλμα? Τρέξε, πίεσε",
+                "[Z], και πήδα!"
             ]
         },
         {
@@ -1792,17 +1792,17 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "To read a sign, stand in",
-                "front of it and press [B],",
-                "like you did just now.",
+                "Για να διαβάσεις μια πινακίδα,",
+                "στάσου μπροστά της και πίεσε [B],",
+                "όπως έκανες μόλις τώρα.",
                 "",
-                "When you want to talk to",
-                "a Koopa Troopa or other",
-                "animal, stand right in",
-                "front of it.",
-                "Please recover the Stars",
-                "that were stolen by",
-                "Bowser in this course."
+                "Όταν θες να μιλήσεις σε ένα",
+                "Κόυπα Τρούπα ή άλλο",
+                "χαρακτήρα, στάσου ακριβώς",
+                "μπροστά του.",
+                "Σε παρακαλώ ξαναβρές τα Αστέρια",
+                "που εκλάπησαν από τον",
+                "Μπάουζερ σε αυτή τη πίστα."
             ]
         },
         {
@@ -1811,16 +1811,16 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "The path is narrow here.",
-                "Easy does it! No one is",
-                "allowed on top of the",
-                "mountain!",
-                "And if you know what's",
-                "good for you, you won't",
-                "wake anyone who's",
-                "sleeping!",
-                "Move slowly,",
-                "tread lightly."
+                "Το μονοπάτι είναι στενό εδώ.",
+                "Εύκολο το κάνει! Κανείς δεν",
+                "επιτρέπεται στη κορυφή",
+                "του βουνού!",
+                "Και εάν ξέρεις τι είναι",
+                "καλό για σένα, δεν θα ",
+                "ξυπνήσεις όποιον",
+                "κοιμάται!",
+                "Κινήσου αργά,",
+                "βάδισε απαλά."
             ]
         },
         {
