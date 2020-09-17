@@ -1111,10 +1111,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "That's not my baby! She",
-                "looks nothing like me!",
-                "Her parents must be",
-                "worried sick!"
+                "Αυτό δεν είναι το μωρό μου!",
+                "Δε μου μοιάζει καθόλου!",
+                "Η γονείς της θα ανησυχούν",
+                "τρελά!"
             ]
         },
         {
@@ -1123,8 +1123,8 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "ATTENTION!",
-                "Read Before Diving In!",
+                "ΠΡΟΣΟΧΗ!",
+                "Διαβάστε πρίν τη κατάδυση!",
                 "",
                 "",
                 "If you stay under the",
@@ -1172,17 +1172,17 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Hidden inside the green",
-                "block is the amazing",
-                "Metal Cap.",
-                "Wearing it, you won't",
-                "catch fire or be hurt",
-                "by enemy attacks.",
-                "You don't even have to",
-                "breathe while wearing it.",
+                "Κρυμμένο μέσα στο πράσινο",
+                "κουτί είναι το φοβερό",
+                "Μεταλλικό Καπέλο.",
+                "Φορώντας το, δεν θα",
+                "πιάνεις φωτιά ούτε θα πληγώνεσαι",
+                "από επιθέσεις εχθρών.",
+                "Δεν χρειάζεται ούτε να",
+                "αναπνέεις όσο το φοράς.",
                 "",
-                "The only problem:",
-                "You can't swim in it."
+                "Το μόνο πρόβλημα:",
+                "Δεν μπορείς να κολυμπήσεις με αυτο."
             ]
         },
         {
