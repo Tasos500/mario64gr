@@ -871,31 +871,31 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "You have to master three",
-                "important jumping",
-                "techniques.",
-                "First try the Triple Jump.",
+                "Πρέπει να κατέχεις πολύ καλά",
+                "τρείς σημαντικές τεχνικές",
+                "άλματος.",
+                "Πρώτα δοκίμασε το Τριπλό ¨αλμα.",
                 "",
-                "Run fast, then jump three",
-                "times, one, two, three.",
-                "If you time the jumps",
-                "right, you'll hop, skip,",
-                "then jump really high.",
-                "Next, go for distance",
-                "with the Long Jump. Run,",
-                "press [Z] to crouch then [A]",
-                "to jump really far.",
+                "Τρέξε γρήγορα, μετά πήδηξε τρείς",
+                "φορές, ένα, δυο, τρία.",
+                "Εαν συγχρονίσεις τα άλματα",
+                "σωστά, θα χοροπηδήσεις, θα πηδήξεις,",
+                "μετά θα κάνεις ένα πολύ ψηλό άλμα.",
+                "Μετά, πάμε στην απόσταση",
+                "με το Μακρύ Άλμα. Τρέξε,",
+                "πίεσε [Z] να σκύψεις και μετά [A]",
+                "ώστε να πηδήξεις μακριά.",
                 "",
-                "To do the Wall Kick, press",
-                "[A] to jump at a wall, then",
-                "jump again when you hit",
-                "the wall.",
+                "Για να κάνεις τη Τοιχό Κλωτσιά, πίεσε",
+                "[A] για να πηδήξεις σε ένα τοίχο, μετά",
+                "πηδάς και πάλι μόλις ακουμπήσεις",
+                "το τοίχο.",
                 "",
-                "Got that? Triple Jump,",
-                "Long Jump, Wall Kick.",
-                "Practice, practice,",
-                "practice. You don't stand",
-                "a chance without them."
+                "Το 'χεις; Τριπλό Άλμα,",
+                "Μακρύ Άλμα, Τοίχο Κλωτσιά.",
+                "Εξάσκηση, εξάσκηση,",
+                "εξάσκηση. Δεν έχεις καμία",
+                "ελπίδα χωρίς αυτά".
             ]
         },
         {
@@ -916,10 +916,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Snow Mountain Summit",
-                "Watch for slippery",
-                "conditions! Please enter",
-                "the cottage first."
+                "Κορυφή Χιονόβουνου",
+                "Προσοχή σε ολισθηρές",
+                "συνθήκες! Παρακαλώ",
+                "εισέλθετε στη καλύβα πρώτα."
             ]
         },
         {
@@ -928,17 +928,17 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Remember that tricky Wall",
-                "Kick jump? It's a",
-                "technique you'll have to",
-                "master in order to reach",
-                "high places.",
-                "Use it to jump from wall",
-                "to wall. Press the",
-                "Control Stick in the",
-                "direction you want to",
-                "bounce to gain momentum.",
-                "Practice makes perfect!"
+                "Θυμάσαι εκείνο τη δύσκολο άλμα με",
+                "τη Τοιχό Κλωτσιά? Είναι μια",
+                "τεχνική που πρέπει να τη",
+                "κατέχεις καλά ώστε να φτάσεις",
+                "ψηλά σημεία.",
+                "Χρησιμοποίησέ τη για να πηδήξεις",
+                "από τοίχο σε τοίχο. Πίεσε το",
+                "Μοχλό Ελέγχου στη",
+                "κατεύθυνση που θες να",
+                "αναπηδήσεις για να πάρεις φόρα.",
+                "Στη πράξη θα το μάθεις τέλεια!"
             ]
         },
         {
@@ -1025,7 +1025,7 @@
             "width": 200,
             "lines": [
                 "Καλωσήρθες στη τσουλήθρα",
-                "χιονιού! Ανέβα! Για να",
+                "χιονιού! ! Για να",
                 "επιταχύνεις, πίεσε μπροστά το",
                 "Μοχλό Ελέγχου. Για να επιβραδύνεις,",
                 "πίεσε πίσω."
